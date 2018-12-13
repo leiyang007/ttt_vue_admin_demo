@@ -1,6 +1,4 @@
-# 一个使用vuejs搭建的售卖平台demo
-
-> 一个使用vuejs搭建的售卖平台demo
+# 一个使用vuejs搭建的后台管理系统demo
 
 ## Build Setup
 
